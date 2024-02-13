@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.ui.Model;
 
 /**
- * Created by Chris Bay
+ * Created by Chris Bay test
  */
 @Controller
 @RequestMapping("eventCategories")
